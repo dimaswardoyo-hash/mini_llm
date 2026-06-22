@@ -1,0 +1,886 @@
+{
+    "laravel": [
+        "adalah",
+        "menyediakan",
+        "menggunakan",
+        "menyediakan",
+        "blade",
+        "mendukung",
+        "menyediakan",
+        "mendukung",
+        "mendukung",
+        "menyediakan",
+        "menyediakan",
+        "sanctum",
+        "mendukung",
+        "memiliki",
+        "menyediakan",
+        "mendukung",
+        "mendukung",
+        "mendukung",
+        "menyediakan",
+        "mendukung",
+        "merupakan",
+        "digunakan",
+        "memiliki"
+    ],
+    "adalah": [
+        "framework"
+    ],
+    "framework": [
+        "php",
+        "php"
+    ],
+    "php": [
+        "yang",
+        "route",
+        "artisan",
+        "artisan",
+        "artisan",
+        "yang"
+    ],
+    "yang": [
+        "menggunakan",
+        "masuk",
+        "sederhana",
+        "belum",
+        "mudah",
+        "tersimpan",
+        "membutuhkan",
+        "akan",
+        "sering",
+        "terjadi",
+        "populer",
+        "lengkap",
+        "besar"
+    ],
+    "menggunakan": [
+        "pola",
+        "eloquent",
+        "model",
+        "phpunit"
+    ],
+    "pola": [
+        "arsitektur"
+    ],
+    "arsitektur": [
+        "mvc"
+    ],
+    "mvc": [
+        "mvc",
+        "terdiri"
+    ],
+    "terdiri": [
+        "dari"
+    ],
+    "dari": [
+        "model",
+        "pengguna"
+    ],
+    "model": [
+        "view",
+        "digunakan",
+        "dan",
+        "setiap",
+        "biasanya",
+        "migration",
+        "digunakan",
+        "baru",
+        "menjadi"
+    ],
+    "view": [
+        "dan",
+        "digunakan",
+        "laravel",
+        "direktif"
+    ],
+    "dan": [
+        "controller",
+        "berinteraksi",
+        "view",
+        "mengubah",
+        "seeder",
+        "if",
+        "registrasi",
+        "pengelolaan",
+        "database",
+        "listener",
+        "many",
+        "komunitas"
+    ],
+    "controller": [
+        "model",
+        "digunakan",
+        "tertentu",
+        "model"
+    ],
+    "digunakan": [
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "request",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk",
+        "untuk"
+    ],
+    "untuk": [
+        "mengelola",
+        "menampilkan",
+        "menghubungkan",
+        "mengatur",
+        "memfilter",
+        "mengelola",
+        "membuat",
+        "mengisi",
+        "membuat",
+        "menjalankan",
+        "menjalankan",
+        "membuat",
+        "menampilkan",
+        "menghindari",
+        "proses",
+        "membatasi",
+        "mengambil",
+        "mengirim",
+        "menyimpan",
+        "menampilkan",
+        "mengelola",
+        "menjalankan",
+        "mengirim",
+        "mendefinisikan",
+        "mengubah",
+        "autentikasi",
+        "membagi",
+        "membuat",
+        "menguji",
+        "menguji",
+        "meningkatkan",
+        "memicu",
+        "menangani",
+        "menghubungkan",
+        "mengurangi",
+        "membangun"
+    ],
+    "mengelola": [
+        "data",
+        "database",
+        "file"
+    ],
+    "data": [
+        "dan",
+        "awal",
+        "secara",
+        "yang",
+        "dari",
+        "kembali",
+        "sementara",
+        "model",
+        "menjadi",
+        "yang",
+        "antar"
+    ],
+    "berinteraksi": [
+        "dengan",
+        "dengan"
+    ],
+    "dengan": [
+        "database",
+        "database",
+        "layanan",
+        "mudah"
+    ],
+    "database": [
+        "view",
+        "eloquent",
+        "menggunakan",
+        "migration",
+        "seeder",
+        "laravel",
+        "laravel",
+        "seperti",
+        "laravel"
+    ],
+    "menampilkan": [
+        "antarmuka",
+        "data",
+        "notifikasi"
+    ],
+    "antarmuka": [
+        "pengguna"
+    ],
+    "pengguna": [
+        "controller",
+        "autentikasi",
+        "yang",
+        "response",
+        "session"
+    ],
+    "menghubungkan": [
+        "model",
+        "data"
+    ],
+    "menyediakan": [
+        "fitur",
+        "artisan",
+        "sistem",
+        "fitur",
+        "fitur",
+        "helper",
+        "sistem"
+    ],
+    "fitur": [
+        "routing",
+        "queue",
+        "api",
+        "pagination",
+        "aplikasi"
+    ],
+    "routing": [
+        "untuk"
+    ],
+    "mengatur": [
+        "url"
+    ],
+    "url": [
+        "aplikasi"
+    ],
+    "aplikasi": [
+        "route",
+        "laravel",
+        "laravel",
+        "unit",
+        "cache",
+        "listener",
+        "web"
+    ],
+    "route": [
+        "dapat",
+        "dapat"
+    ],
+    "dapat": [
+        "didefinisikan",
+        "mengarahkan",
+        "disimpan",
+        "menyimpan"
+    ],
+    "didefinisikan": [
+        "pada"
+    ],
+    "pada": [
+        "file",
+        "view",
+        "direktori"
+    ],
+    "file": [
+        "web",
+        "dan",
+        "dapat",
+        "yang",
+        "redis"
+    ],
+    "web": [
+        "php",
+        "modern"
+    ],
+    "mengarahkan": [
+        "permintaan"
+    ],
+    "permintaan": [
+        "ke"
+    ],
+    "ke": [
+        "controller",
+        "aplikasi",
+        "dalam",
+        "pengguna"
+    ],
+    "tertentu": [
+        "middleware",
+        "secara"
+    ],
+    "middleware": [
+        "digunakan",
+        "auth"
+    ],
+    "memfilter": [
+        "request"
+    ],
+    "request": [
+        "yang",
+        "digunakan"
+    ],
+    "masuk": [
+        "ke"
+    ],
+    "eloquent": [
+        "orm",
+        "memungkinkan"
+    ],
+    "orm": [
+        "untuk"
+    ],
+    "memungkinkan": [
+        "pengembang",
+        "penggunaan"
+    ],
+    "pengembang": [
+        "berinteraksi"
+    ],
+    "setiap": [
+        "model"
+    ],
+    "biasanya": [
+        "mewakili"
+    ],
+    "mewakili": [
+        "satu"
+    ],
+    "satu": [
+        "tabel",
+        "framework"
+    ],
+    "tabel": [
+        "dalam",
+        "database",
+        "eager"
+    ],
+    "dalam": [
+        "database",
+        "database",
+        "aplikasi"
+    ],
+    "migration": [
+        "digunakan",
+        "dan",
+        "perintah"
+    ],
+    "membuat": [
+        "dan",
+        "controller",
+        "model",
+        "link"
+    ],
+    "mengubah": [
+        "struktur",
+        "data"
+    ],
+    "struktur": [
+        "tabel"
+    ],
+    "seeder": [
+        "digunakan",
+        "perintah"
+    ],
+    "mengisi": [
+        "data"
+    ],
+    "awal": [
+        "ke"
+    ],
+    "artisan": [
+        "sebagai",
+        "digunakan",
+        "serve",
+        "migrate",
+        "make"
+    ],
+    "sebagai": [
+        "command"
+    ],
+    "command": [
+        "line"
+    ],
+    "line": [
+        "interface"
+    ],
+    "interface": [
+        "artisan"
+    ],
+    "perintah": [
+        "php",
+        "php",
+        "php"
+    ],
+    "serve": [
+        "digunakan"
+    ],
+    "menjalankan": [
+        "server",
+        "migration",
+        "proses"
+    ],
+    "server": [
+        "lokal"
+    ],
+    "lokal": [
+        "perintah"
+    ],
+    "migrate": [
+        "digunakan"
+    ],
+    "make": [
+        "model"
+    ],
+    "baru": [
+        "blade"
+    ],
+    "blade": [
+        "merupakan",
+        "memungkinkan",
+        "seperti",
+        "digunakan"
+    ],
+    "merupakan": [
+        "template",
+        "salah"
+    ],
+    "template": [
+        "engine"
+    ],
+    "engine": [
+        "bawaan"
+    ],
+    "bawaan": [
+        "laravel"
+    ],
+    "penggunaan": [
+        "sintaks"
+    ],
+    "sintaks": [
+        "yang"
+    ],
+    "sederhana": [
+        "pada"
+    ],
+    "direktif": [
+        "blade"
+    ],
+    "seperti": [
+        "foreach",
+        "file",
+        "one"
+    ],
+    "foreach": [
+        "dan"
+    ],
+    "if": [
+        "digunakan"
+    ],
+    "secara": [
+        "dinamis",
+        "otomatis",
+        "terpisah"
+    ],
+    "dinamis": [
+        "layout"
+    ],
+    "layout": [
+        "blade"
+    ],
+    "menghindari": [
+        "duplikasi"
+    ],
+    "duplikasi": [
+        "kode"
+    ],
+    "kode": [
+        "tampilan"
+    ],
+    "tampilan": [
+        "laravel"
+    ],
+    "mendukung": [
+        "autentikasi",
+        "upload",
+        "integrasi",
+        "pembuatan",
+        "testing",
+        "cache",
+        "driver",
+        "relasi"
+    ],
+    "autentikasi": [
+        "pengguna",
+        "digunakan",
+        "api"
+    ],
+    "proses": [
+        "login",
+        "berhasil",
+        "di"
+    ],
+    "login": [
+        "dan",
+        "laravel"
+    ],
+    "registrasi": [
+        "middleware"
+    ],
+    "auth": [
+        "digunakan"
+    ],
+    "membatasi": [
+        "akses"
+    ],
+    "akses": [
+        "pengguna"
+    ],
+    "belum": [
+        "login"
+    ],
+    "sistem": [
+        "validasi",
+        "event"
+    ],
+    "validasi": [
+        "data"
+    ],
+    "mudah": [
+        "digunakan",
+        "laravel"
+    ],
+    "mengambil": [
+        "data"
+    ],
+    "response": [
+        "digunakan"
+    ],
+    "mengirim": [
+        "data",
+        "email"
+    ],
+    "kembali": [
+        "ke"
+    ],
+    "session": [
+        "digunakan"
+    ],
+    "menyimpan": [
+        "data",
+        "data"
+    ],
+    "sementara": [
+        "flash"
+    ],
+    "flash": [
+        "message"
+    ],
+    "message": [
+        "digunakan"
+    ],
+    "notifikasi": [
+        "setelah"
+    ],
+    "setelah": [
+        "suatu"
+    ],
+    "suatu": [
+        "proses",
+        "kejadian"
+    ],
+    "berhasil": [
+        "dilakukan"
+    ],
+    "dilakukan": [
+        "laravel"
+    ],
+    "upload": [
+        "file"
+    ],
+    "pengelolaan": [
+        "storage"
+    ],
+    "storage": [
+        "file",
+        "storage",
+        "facade",
+        "laravel"
+    ],
+    "disimpan": [
+        "pada"
+    ],
+    "direktori": [
+        "storage"
+    ],
+    "facade": [
+        "digunakan"
+    ],
+    "tersimpan": [
+        "laravel"
+    ],
+    "integrasi": [
+        "dengan"
+    ],
+    "layanan": [
+        "cloud"
+    ],
+    "cloud": [
+        "storage"
+    ],
+    "queue": [
+        "untuk",
+        "digunakan",
+        "laravel"
+    ],
+    "di": [
+        "latar"
+    ],
+    "latar": [
+        "belakang"
+    ],
+    "belakang": [
+        "queue"
+    ],
+    "email": [
+        "atau"
+    ],
+    "atau": [
+        "memproses"
+    ],
+    "memproses": [
+        "pekerjaan"
+    ],
+    "pekerjaan": [
+        "yang"
+    ],
+    "membutuhkan": [
+        "waktu"
+    ],
+    "waktu": [
+        "lama"
+    ],
+    "lama": [
+        "job"
+    ],
+    "job": [
+        "digunakan"
+    ],
+    "mendefinisikan": [
+        "tugas"
+    ],
+    "tugas": [
+        "yang"
+    ],
+    "akan": [
+        "dijalankan"
+    ],
+    "dijalankan": [
+        "oleh"
+    ],
+    "oleh": [
+        "queue"
+    ],
+    "api": [
+        "resource",
+        "resource",
+        "laravel",
+        "dengan"
+    ],
+    "resource": [
+        "api",
+        "digunakan"
+    ],
+    "menjadi": [
+        "format",
+        "beberapa"
+    ],
+    "format": [
+        "json"
+    ],
+    "json": [
+        "laravel"
+    ],
+    "sanctum": [
+        "digunakan"
+    ],
+    "pembuatan": [
+        "rest"
+    ],
+    "rest": [
+        "api"
+    ],
+    "memiliki": [
+        "fitur",
+        "dokumentasi"
+    ],
+    "pagination": [
+        "untuk",
+        "membantu",
+        "secara"
+    ],
+    "membagi": [
+        "data"
+    ],
+    "beberapa": [
+        "halaman"
+    ],
+    "halaman": [
+        "pagination"
+    ],
+    "membantu": [
+        "meningkatkan"
+    ],
+    "meningkatkan": [
+        "performa",
+        "performa"
+    ],
+    "performa": [
+        "aplikasi",
+        "aplikasi"
+    ],
+    "helper": [
+        "untuk"
+    ],
+    "link": [
+        "pagination"
+    ],
+    "otomatis": [
+        "laravel"
+    ],
+    "testing": [
+        "menggunakan"
+    ],
+    "phpunit": [
+        "feature"
+    ],
+    "feature": [
+        "test"
+    ],
+    "test": [
+        "digunakan",
+        "digunakan"
+    ],
+    "menguji": [
+        "fitur",
+        "fungsi"
+    ],
+    "unit": [
+        "test"
+    ],
+    "fungsi": [
+        "tertentu"
+    ],
+    "terpisah": [
+        "laravel"
+    ],
+    "cache": [
+        "untuk",
+        "dapat",
+        "seperti"
+    ],
+    "sering": [
+        "diakses"
+    ],
+    "diakses": [
+        "laravel"
+    ],
+    "driver": [
+        "cache"
+    ],
+    "redis": [
+        "dan"
+    ],
+    "event": [
+        "dan",
+        "digunakan",
+        "yang"
+    ],
+    "listener": [
+        "event",
+        "digunakan"
+    ],
+    "memicu": [
+        "suatu"
+    ],
+    "kejadian": [
+        "dalam"
+    ],
+    "menangani": [
+        "event"
+    ],
+    "terjadi": [
+        "laravel"
+    ],
+    "relasi": [
+        "database",
+        "digunakan"
+    ],
+    "one": [
+        "to",
+        "one",
+        "to"
+    ],
+    "to": [
+        "one",
+        "many",
+        "many"
+    ],
+    "many": [
+        "dan",
+        "to",
+        "relasi"
+    ],
+    "antar": [
+        "tabel"
+    ],
+    "eager": [
+        "loading"
+    ],
+    "loading": [
+        "digunakan"
+    ],
+    "mengurangi": [
+        "jumlah"
+    ],
+    "jumlah": [
+        "query"
+    ],
+    "query": [
+        "database"
+    ],
+    "salah": [
+        "satu"
+    ],
+    "populer": [
+        "laravel"
+    ],
+    "membangun": [
+        "aplikasi"
+    ],
+    "modern": [
+        "laravel"
+    ],
+    "dokumentasi": [
+        "yang"
+    ],
+    "lengkap": [
+        "dan"
+    ],
+    "komunitas": [
+        "yang"
+    ]
+}

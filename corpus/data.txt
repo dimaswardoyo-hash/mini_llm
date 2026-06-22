@@ -1,0 +1,8 @@
+Laravel adalah framework PHP yang populer.
+Laravel digunakan untuk membangun aplikasi web.
+Python digunakan untuk machine learning.
+Machine learning membantu analisis data.
+Data science menggunakan Python.
+Streamlit digunakan untuk membuat dashboard AI.
+Artificial intelligence berkembang sangat cepat.
+Natural language processing adalah bagian dari AI.

@@ -1,0 +1,75 @@
+Laravel adalah framework PHP yang menggunakan pola arsitektur MVC.
+MVC terdiri dari Model, View, dan Controller.
+Model digunakan untuk mengelola data dan berinteraksi dengan database.
+View digunakan untuk menampilkan antarmuka pengguna.
+Controller digunakan untuk menghubungkan Model dan View.
+
+Laravel menyediakan fitur routing untuk mengatur URL aplikasi.
+Route dapat didefinisikan pada file web.php.
+Route dapat mengarahkan permintaan ke controller tertentu.
+Middleware digunakan untuk memfilter request yang masuk ke aplikasi.
+
+Laravel menggunakan Eloquent ORM untuk mengelola database.
+Eloquent memungkinkan pengembang berinteraksi dengan database menggunakan model.
+Setiap model biasanya mewakili satu tabel dalam database.
+Migration digunakan untuk membuat dan mengubah struktur tabel database.
+Seeder digunakan untuk mengisi data awal ke dalam database.
+
+Laravel menyediakan Artisan sebagai command line interface.
+Artisan digunakan untuk membuat controller, model, migration, dan seeder.
+Perintah php artisan serve digunakan untuk menjalankan server lokal.
+Perintah php artisan migrate digunakan untuk menjalankan migration.
+Perintah php artisan make:model digunakan untuk membuat model baru.
+
+Blade merupakan template engine bawaan Laravel.
+Blade memungkinkan penggunaan sintaks yang sederhana pada view.
+Direktif Blade seperti foreach dan if digunakan untuk menampilkan data secara dinamis.
+Layout Blade digunakan untuk menghindari duplikasi kode tampilan.
+
+Laravel mendukung autentikasi pengguna.
+Autentikasi digunakan untuk proses login dan registrasi.
+Middleware auth digunakan untuk membatasi akses pengguna yang belum login.
+Laravel menyediakan sistem validasi data yang mudah digunakan.
+
+Request digunakan untuk mengambil data dari pengguna.
+Response digunakan untuk mengirim data kembali ke pengguna.
+Session digunakan untuk menyimpan data sementara.
+Flash message digunakan untuk menampilkan notifikasi setelah suatu proses berhasil dilakukan.
+
+Laravel mendukung upload file dan pengelolaan storage.
+File dapat disimpan pada direktori storage.
+Storage facade digunakan untuk mengelola file yang tersimpan.
+Laravel mendukung integrasi dengan layanan cloud storage.
+
+Laravel menyediakan fitur queue untuk menjalankan proses di latar belakang.
+Queue digunakan untuk mengirim email atau memproses pekerjaan yang membutuhkan waktu lama.
+Job digunakan untuk mendefinisikan tugas yang akan dijalankan oleh queue.
+
+Laravel menyediakan fitur API Resource.
+API Resource digunakan untuk mengubah data model menjadi format JSON.
+Laravel Sanctum digunakan untuk autentikasi API.
+Laravel mendukung pembuatan REST API dengan mudah.
+
+Laravel memiliki fitur pagination untuk membagi data menjadi beberapa halaman.
+Pagination membantu meningkatkan performa aplikasi.
+Laravel menyediakan helper untuk membuat link pagination secara otomatis.
+
+Laravel mendukung testing menggunakan PHPUnit.
+Feature Test digunakan untuk menguji fitur aplikasi.
+Unit Test digunakan untuk menguji fungsi tertentu secara terpisah.
+
+Laravel mendukung cache untuk meningkatkan performa aplikasi.
+Cache dapat menyimpan data yang sering diakses.
+Laravel mendukung driver cache seperti file, redis, dan database.
+
+Laravel menyediakan sistem event dan listener.
+Event digunakan untuk memicu suatu kejadian dalam aplikasi.
+Listener digunakan untuk menangani event yang terjadi.
+
+Laravel mendukung relasi database seperti one to one, one to many, dan many to many.
+Relasi digunakan untuk menghubungkan data antar tabel.
+Eager loading digunakan untuk mengurangi jumlah query database.
+
+Laravel merupakan salah satu framework PHP yang populer.
+Laravel digunakan untuk membangun aplikasi web modern.
+Laravel memiliki dokumentasi yang lengkap dan komunitas yang besar.

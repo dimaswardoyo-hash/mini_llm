@@ -1,0 +1,15 @@
+Apa itu Laravel?|Laravel adalah framework PHP yang menggunakan pola MVC.
+Apa fungsi Controller?|Controller digunakan untuk menghubungkan model dan view.
+Apa itu Model?|Model digunakan untuk berinteraksi dengan database.
+Apa itu View?|View digunakan untuk menampilkan antarmuka pengguna.
+Apa itu Migration?|Migration digunakan untuk mengelola struktur database.
+Apa itu Seeder?|Seeder digunakan untuk mengisi data awal ke database.
+Apa fungsi Middleware?|Middleware digunakan untuk memfilter request.
+Apa itu Blade?|Blade adalah template engine bawaan Laravel.
+Apa fungsi Artisan?|Artisan adalah command line interface Laravel.
+Apa fungsi Eloquent?|Eloquent adalah ORM bawaan Laravel.
+Apa itu Route?|Route digunakan untuk mengatur URL aplikasi.
+Apa fungsi Session?|Session digunakan untuk menyimpan data sementara.
+Apa itu Queue?|Queue digunakan untuk menjalankan proses di latar belakang.
+Apa itu API Resource?|API Resource digunakan untuk memformat data JSON.
+Apa itu Laravel Sanctum?|Sanctum digunakan untuk autentikasi API.
