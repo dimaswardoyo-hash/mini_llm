@@ -49,7 +49,7 @@ st.sidebar.metric(
 )
 
 # ==================================
-# INPUT USER
+# INPUT
 # ==================================
 prompt = st.text_input(
     "Masukkan kata awal",
@@ -65,7 +65,6 @@ if st.button("Generate"):
         st.warning("Masukkan kata terlebih dahulu")
 
     else:
-
         current = prompt.lower()
 
         generated = [current]
