@@ -26,6 +26,31 @@ st.write(
     "Mini Language Model berbasis Corpus Laravel"
 )
 
+# ==================================
+# STATISTIK CORPUS
+# ==================================
+token_count = sum(
+    len(v)
+    for v in model.values()
+)
+
+word_count = len(model)
+
+st.sidebar.header("📊 Statistik Corpus")
+
+st.sidebar.metric(
+    "Jumlah Kata Unik",
+    word_count
+)
+
+st.sidebar.metric(
+    "Jumlah Relasi Kata",
+    token_count
+)
+
+# ==================================
+# INPUT USER
+# ==================================
 prompt = st.text_input(
     "Masukkan kata awal",
     placeholder="contoh: laravel"
@@ -38,6 +63,7 @@ if st.button("Generate"):
 
     if prompt.strip() == "":
         st.warning("Masukkan kata terlebih dahulu")
+
     else:
 
         current = prompt.lower()
@@ -60,23 +86,3 @@ if st.button("Generate"):
         result = " ".join(generated)
 
         st.success(result)
-
-
-        token_count = sum(
-    len(v)
-    for v in model.values()
-)
-
-word_count = len(model)
-
-st.sidebar.header("Statistik Corpus")
-
-st.sidebar.metric(
-    "Jumlah Kata Unik",
-    word_count
-)
-
-st.sidebar.metric(
-    "Jumlah Relasi Kata",
-    token_count
-)
